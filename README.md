@@ -29,7 +29,7 @@ Neste repositório, encontram-se os projetos e atividades desenvolvidos nas disc
 - ProbHasteNaive.c -> tentativa inicial de implementação para o problema do corte da haste (solução ingênua).
 - ProbHasteMemoization.c -> tentativa de implementação para o problema do corte da haste utilizando memoization.
 - hanoi.c -> tentativa de implementação recursiva para o problema da Torre de Hanói.
-- problemaRainhasNaive.c -> é composto por tentativas de implementação para o problema das N-Rainhas ingênuas. No entanto, é difícil resolver o problema sem utilizar backtracking.
+- problemaRainhasNaive.c -> é composto por tentativas de implementação para o problema das N-Rainhas de maneira ingênua. No entanto, é difícil resolver o problema sem utilizar backtracking, então a solução proposta não é ideal e completa.
 
 ### Projeto ###
 
